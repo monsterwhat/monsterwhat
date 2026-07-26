@@ -9,9 +9,7 @@
 
 <div align="center">
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| ![Full Stack Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Full+Stack+Developer) | ![Hardware Tinkerer](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hardware+Tinkerer) | ![Server Operator](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90D9&center=true&vCenter=true&width=435&lines=Server+Operator) | ![Open Source Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast) |
+![Full Stack Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Full+Stack+Developer) ![Hardware Tinkerer](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hardware+Tinkerer) ![Server Operator](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90D9&center=true&vCenter=true&width=435&lines=Server+Operator) ![Open Source Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast)
 
 </div>
 
