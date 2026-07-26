@@ -3,19 +3,15 @@
 <p align="left">
   <a href="https://github.com/monsterwhat?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/monsterwhat?style=flat&logo=github"></a>
   <a href="https://github.com/monsterwhat"><img src="https://komarev.com/ghpvc/?username=monsterwhat" alt="page views" /></a>
-  <a href="https://www.playdeca.com"><img alt="PlayDeca" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.playdeca.com"></a>
-  <a href="https://www.tamarindorents.com"><img alt="TamaRentoRentz" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.tamarindorents.com"></a>
+  <a href="https://www.playdeca.com"><img alt="PlayDeca" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.playdeca.com&label=PlayDeca"></a>
+  <a href="https://www.tamarindorents.com"><img alt="TamaRentoRentz" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.tamarindorents.com&label=TamarindoRents"></a>
 </p>
 
 <div align="center">
 
-![Full Stack Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Full+Stack+Developer)
-
-![Hardware Tinkerer](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hardware+Tinkerer)
-
-![Server Operator](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90D9&center=true&vCenter=true&width=435&lines=Server+Operator)
-
-![Open Source Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast)
+| | | | |
+|:---:|:---:|:---:|:---:|
+| ![Full Stack Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Full+Stack+Developer) | ![Hardware Tinkerer](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hardware+Tinkerer) | ![Server Operator](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90D9&center=true&vCenter=true&width=435&lines=Server+Operator) | ![Open Source Enthusiast](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast) |
 
 </div>
 
@@ -79,7 +75,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axum/axum-original.svg" width="48" height="48" alt="Axum" />
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L2 22h4l2-4h8l2 4h4L12 2zm-4.5 12L12 5.5l4.5 8.5h-9z" fill="#FF6B35"/></svg>
       <br>Axum
     </td>
     <td align="center" width="96">
@@ -110,6 +106,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tmux/tmux-original.svg" width="48" height="48" alt="tmux" />
       <br>tmux
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/tokio/000000" width="48" height="48" alt="Tokio" />
+      <br>Tokio
+    </td>
   </tr>
 </table>
 
@@ -120,15 +120,15 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/espressif/espressif-original.svg" width="48" height="48" alt="ESP32" />
+      <img src="https://cdn.simpleicons.org/espressif/E7352C" width="48" height="48" alt="ESP32" />
       <br>ESP32
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Solar" />
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="5" stroke="#F4A300" stroke-width="1.5"/><line x1="12" y1="1" x2="12" y2="4" stroke="#F4A300" stroke-width="1.5"/><line x1="12" y1="20" x2="12" y2="23" stroke="#F4A300" stroke-width="1.5"/><line x1="4.22" y1="4.22" x2="6.34" y2="6.34" stroke="#F4A300" stroke-width="1.5"/><line x1="17.66" y1="17.66" x2="19.78" y2="19.78" stroke="#F4A300" stroke-width="1.5"/><line x1="1" y1="12" x2="4" y2="12" stroke="#F4A300" stroke-width="1.5"/><line x1="20" y1="12" x2="23" y2="12" stroke="#F4A300" stroke-width="1.5"/><line x1="4.22" y1="19.78" x2="6.34" y2="17.66" stroke="#F4A300" stroke-width="1.5"/><line x1="17.66" y1="6.34" x2="19.78" y2="4.22" stroke="#F4A300" stroke-width="1.5"/></svg>
       <br>Solar Power
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Sensors" />
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="6" y="6" width="12" height="12" rx="1" stroke="#00979D" stroke-width="1.5"/><rect x="9" y="9" width="6" height="6" rx="0.5" stroke="#00979D" stroke-width="1"/><line x1="9" y1="3" x2="9" y2="6" stroke="#00979D" stroke-width="1.5"/><line x1="15" y1="3" x2="15" y2="6" stroke="#00979D" stroke-width="1.5"/><line x1="9" y1="18" x2="9" y2="21" stroke="#00979D" stroke-width="1.5"/><line x1="15" y1="18" x2="15" y2="21" stroke="#00979D" stroke-width="1.5"/><line x1="3" y1="9" x2="6" y2="9" stroke="#00979D" stroke-width="1.5"/><line x1="3" y1="15" x2="6" y2="15" stroke="#00979D" stroke-width="1.5"/><line x1="18" y1="9" x2="21" y2="9" stroke="#00979D" stroke-width="1.5"/><line x1="18" y1="15" x2="21" y2="15" stroke="#00979D" stroke-width="1.5"/></svg>
       <br>Sensors
     </td>
   </tr>
@@ -179,12 +179,16 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireguard/wireguard-original.svg" width="48" height="48" alt="WireGuard" />
+      <img src="https://cdn.simpleicons.org/wireguard/88171A" width="48" height="48" alt="WireGuard" />
       <br>WireGuard
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dns/dns-original.svg" width="48" height="48" alt="DNS" />
-      <br>DNS/Pi-hole
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="10" stroke="#2ECC71" stroke-width="1.5"/><ellipse cx="12" cy="12" rx="4" ry="10" stroke="#2ECC71" stroke-width="1.5"/><line x1="2" y1="12" x2="22" y2="12" stroke="#2ECC71" stroke-width="1.5"/></svg>
+      <br>DNS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/pihole/F60D1A" width="48" height="48" alt="Pi-hole" />
+      <br>Pi-hole
     </td>
   </tr>
 </table>
@@ -197,13 +201,5 @@
 - 🚚 Server migrations (multiple dedicated infrastructure migrations)
 
 ---
-
-## 👀 Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=monsterwhat&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 
