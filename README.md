@@ -9,14 +9,12 @@
 
 <div align="center">
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none; padding: 5px;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Full Stack Developer"></td>
-    <td style="border: none; padding: 5px;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hardware+Tinkerer" alt="Hardware Tinkerer"></td>
-    <td style="border: none; padding: 5px;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90D9&center=true&vCenter=true&width=435&lines=Server+Operator" alt="Server Operator"></td>
-    <td style="border: none; padding: 5px;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast" alt="Open Source Enthusiast"></td>
-  </tr>
-</table>
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Full Stack Developer" width="435">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hardware+Tinkerer" alt="Hardware Tinkerer" width="435">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90D9&center=true&vCenter=true&width=435&lines=Server+Operator" alt="Server Operator" width="435">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast" alt="Open Source Enthusiast" width="435">
+</p>
 
 </div>
 
