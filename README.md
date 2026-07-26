@@ -7,16 +7,12 @@
   <a href="https://www.tamarindorents.com"><img alt="TamaRentoRentz" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.tamarindorents.com&label=TamarindoRents"></a>
 </p>
 
-<div align="center">
-
-<table cellpadding="10">
-  <tr>
-    <td><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Full Stack Developer"></td>
-    <td><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hardware+Tinkerer" alt="Hardware Tinkerer"></td>
-    <td><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90D9&center=true&vCenter=true&width=435&lines=Server+Operator" alt="Server Operator"></td>
-    <td><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast" alt="Open Source Enthusiast"></td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Full Stack Developer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hardware+Tinkerer" alt="Hardware Tinkerer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90D9&center=true&vCenter=true&width=435&lines=Server+Operator" alt="Server Operator">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast" alt="Open Source Enthusiast">
+</div>
 
 </div>
 
